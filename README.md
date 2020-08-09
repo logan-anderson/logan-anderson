@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hi there, I'm [Logan][website] 👋
 
-<!--
-**logan-anderson/logan-anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working [tinacms](https://tinacms.org)
+- 🌱 I’m currently learning machinelearning/AI, nextjs, and react
+- 💬 Ask me about anything
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
+
+<!-- ### Languages and Tools:
+
+<br />
+<br /> -->
+
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=logan-anderson&count_private=true&show_icons=true&hide=stars&hide+)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logan-anderson)
+
+
+[website]: https:/logan.bio
+[twitter]: https://twitter.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[blog]: https://logana.dev
