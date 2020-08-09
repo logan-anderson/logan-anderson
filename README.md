@@ -22,6 +22,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Markdown](https://logana.dev/blog/markdown)
+- [RSS Feeds in a nextjs site](https://logana.dev/blog/rss-feeds-in-a-nextjs-site)
 <!-- BLOG-POST-LIST:END -->
 
 ---
