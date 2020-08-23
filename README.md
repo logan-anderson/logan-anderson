@@ -29,6 +29,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to add a new action to a tinaCMS form](https://logana.dev/blog/how-to-add-a-new-action-to-a-tinacms-form)
 - [What is Markdown](https://logana.dev/blog/markdown)
 - [RSS Feeds in a nextjs site](https://logana.dev/blog/rss-feeds-in-a-nextjs-site)
 <!-- BLOG-POST-LIST:END -->
