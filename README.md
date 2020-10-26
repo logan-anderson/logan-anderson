@@ -29,6 +29,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does a Math Degree Help in Software Engineering](https://logana.dev/blog/does-a-math-degree-help-in-software-engineering)
 - [How to add a new action to a tinaCMS form](https://logana.dev/blog/how-to-add-a-new-action-to-a-tinacms-form)
 - [What is Markdown](https://logana.dev/blog/markdown)
 - [RSS Feeds in a nextjs site](https://logana.dev/blog/rss-feeds-in-a-nextjs-site)
