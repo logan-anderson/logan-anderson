@@ -50,7 +50,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logan-anderson&layout=compact)
 
 
-[website]: https://logan.bio
+[website]: https://logana.dev
 [twitter]: https://twitter.com/logan_anders0n
 [linkedin]: https://www.linkedin.com/in/logan-anderson-tech/
 [blog]: https://logana.dev
