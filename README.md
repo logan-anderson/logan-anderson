@@ -5,8 +5,6 @@
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
 
-> [Checkout my blog][blog]
-
 > [Checkout my website][website]
 
 
