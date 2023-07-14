@@ -32,11 +32,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ethical Issues in Artificial Intelligence Algorithms](https://logana.dev/blog/ethical-issues-in-artificial-intelligence-algorithms)
+- [Achieving Consistent Output from ChatGPT](https://logana.dev/blog/achieving-consistent-output-from-chatgpt)
 - [An accessible intro to Machine Learning](https://logana.dev/blog/machine-learning)
 - [What is nextjs?](https://logana.dev/blog/what-is-nextjs)
 - [Does a Math Degree Help in Software Engineering?](https://logana.dev/blog/does-a-math-degree-help-in-software-engineering)
-- [How to add a new action to a tinaCMS form](https://logana.dev/blog/how-to-add-a-new-action-to-a-tinacms-form)
-- [RSS Feeds in a nextjs site](https://logana.dev/blog/rss-feeds-in-a-nextjs-site)
 <!-- BLOG-POST-LIST:END -->
 
 ---
