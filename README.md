@@ -32,11 +32,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Ethical Issues in Artificial Intelligence Algorithms](https://logana.dev/blog/ethical-issues-in-artificial-intelligence-algorithms)
-- [Achieving Consistent Output from ChatGPT](https://logana.dev/blog/achieving-consistent-output-from-chatgpt)
-- [An accessible intro to Machine Learning](https://logana.dev/blog/machine-learning)
-- [What is nextjs?](https://logana.dev/blog/what-is-nextjs)
-- [Does a Math Degree Help in Software Engineering?](https://logana.dev/blog/does-a-math-degree-help-in-software-engineering)
+- [Ethical Issues in Artificial Intelligence Algorithms](https://logan.codes/blog/ethical-issues-in-artificial-intelligence-algorithms)
+- [Achieving Consistent Output from ChatGPT](https://logan.codes/blog/achieving-consistent-output-from-chatgpt)
+- [An accessible intro to Machine Learning](https://logan.codes/blog/machine-learning)
+- [What is nextjs?](https://logan.codes/blog/what-is-nextjs)
+- [Does a Math Degree Help in Software Engineering?](https://logan.codes/blog/does-a-math-degree-help-in-software-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -48,7 +48,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logan-anderson&layout=compact)
 
 
-[website]: https://logana.dev
+[website]: https://logan.codes
 [twitter]: https://twitter.com/logan_anders0n
 [linkedin]: https://www.linkedin.com/in/logan-anderson-tech/
-[blog]: https://logana.dev
+[blog]: https://logan.codes
