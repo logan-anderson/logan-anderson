@@ -32,11 +32,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Real-time Interactivity with Lang Chain: A Critical Look at Vercel AI Package](https://logan.codes/blog/why-im-ditching-vercel-ai)
 - [Ethical Issues in Artificial Intelligence Algorithms](https://logan.codes/blog/ethical-issues-in-artificial-intelligence-algorithms)
 - [Achieving Consistent Output from ChatGPT](https://logan.codes/blog/achieving-consistent-output-from-chatgpt)
 - [An accessible intro to Machine Learning](https://logan.codes/blog/machine-learning)
 - [What is nextjs?](https://logan.codes/blog/what-is-nextjs)
-- [Does a Math Degree Help in Software Engineering?](https://logan.codes/blog/does-a-math-degree-help-in-software-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
