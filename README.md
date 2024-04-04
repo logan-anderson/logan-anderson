@@ -1,6 +1,6 @@
 ### Hi there, I'm [Logan][website] 👋
 
-- 🔭 I’m currently working at [forestry.io](https://forestry.io/) on [tinacms](https://tinacms.org)
+- 👨🏻‍💻 Software Engineer at [Stripe](https://stripe.com)
 - 🌱 I’m currently learning machinelearning/AI, nextjs, and react
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
