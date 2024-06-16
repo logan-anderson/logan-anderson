@@ -32,10 +32,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Biggest Mistakes Developers Make in Next.js](https://logan.codes/blog/5-mistakes-developers-make-in-nextjs)
+- [You Need Suspense in Your Next.js App](https://logan.codes/blog/you-need-suspense)
 - [Enhancing Real-time Interactivity with Lang Chain: A Critical Look at Vercel AI Package](https://logan.codes/blog/why-im-ditching-vercel-ai)
 - [Ethical Issues in Artificial Intelligence Algorithms](https://logan.codes/blog/ethical-issues-in-artificial-intelligence-algorithms)
 - [Achieving Consistent Output from ChatGPT](https://logan.codes/blog/achieving-consistent-output-from-chatgpt)
-- [An accessible intro to Machine Learning](https://logan.codes/blog/machine-learning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
