@@ -49,6 +49,6 @@
 
 
 [website]: https://logan.codes
-[twitter]: https://twitter.com/logan_anders0n
+[twitter]: https://twitter.com/logan_codes
 [linkedin]: https://www.linkedin.com/in/logan-anderson-tech/
 [blog]: https://logan.codes
