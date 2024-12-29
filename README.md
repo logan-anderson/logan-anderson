@@ -32,11 +32,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for TypeScript Imports](https://logan.codes/blog/beautiful-ts-code)
 - [Tips for Writing Truly Beautiful React Code](https://logan.codes/blog/beautiful-react-code)
 - [You Need Suspense in Your Next.js App](https://logan.codes/blog/you-need-suspense)
 - [5 Biggest Mistakes Developers Make in Next.js](https://logan.codes/blog/5-mistakes-developers-make-in-nextjs)
 - [Enhancing Real-time Interactivity with Lang Chain: A Critical Look at Vercel AI Package](https://logan.codes/blog/why-im-ditching-vercel-ai)
-- [Ethical Issues in Artificial Intelligence Algorithms](https://logan.codes/blog/ethical-issues-in-artificial-intelligence-algorithms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
