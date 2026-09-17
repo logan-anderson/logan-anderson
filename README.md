@@ -41,12 +41,6 @@
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=logan-anderson&count_private=true&show_icons=true&hide=stars)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logan-anderson&layout=compact)
-
 
 [website]: https://logan.codes
 [twitter]: https://twitter.com/logan_codes
