@@ -32,11 +32,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can a Classifier Chat? Turning Jev into a &lpar;Tiny&rpar; LLM](https://logan.codes/blog/can-a-classifier-chat)
 - [Best Practices for TypeScript Imports](https://logan.codes/blog/beautiful-ts-code)
 - [Tips for Writing Truly Beautiful React Code](https://logan.codes/blog/beautiful-react-code)
 - [You Need Suspense in Your Next.js App](https://logan.codes/blog/you-need-suspense)
 - [5 Biggest Mistakes Developers Make in Next.js](https://logan.codes/blog/5-mistakes-developers-make-in-nextjs)
-- [Enhancing Real-time Interactivity with Lang Chain: A Critical Look at Vercel AI Package](https://logan.codes/blog/why-im-ditching-vercel-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
